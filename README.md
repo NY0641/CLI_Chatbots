@@ -8,3 +8,9 @@ It shows the complete workflow of:
 - generating responses
 - maintaining conversation memory
 - running inference on GPU# CLI_Chatbots
+
+## 🔐 Authentication
+
+Copy `.env.example` to `.env` and add your Hugging Face token:
+
+HF_TOKEN=your_token_here
